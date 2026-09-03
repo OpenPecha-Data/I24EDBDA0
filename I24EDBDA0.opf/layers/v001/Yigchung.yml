@@ -1,0 +1,10 @@
+id: 46c5701b435b4cf48d9e641bb2bb321d
+annotation_type: Yigchung
+revision: '00001'
+annotations:
+  f976825e44da4680ba58116768bc8147:
+    span:
+      start: 558323
+      end: 558477
+local_ids:
+  f976825e44da4680ba58116768bc8147: 200000

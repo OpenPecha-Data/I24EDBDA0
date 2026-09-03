@@ -1,0 +1,27 @@
+id: I24EDBDA0
+initial_creation_type: ebook
+source_metadata:
+  id: RDI-KK-25
+  title: དྭགས་བརྒྱུད་སྒྲུབ་པའི་ཐེམ་སྐས་གདམས་ངག་ཕྱོགས་བསྒྲིགས།
+  author: མཛད་པ་པོ། མཁས་གྲུབ་རཱ་ག་ཨ་སྱ།
+  authors: &id001
+  - མཛད་པ་པོ། མཁས་གྲུབ་རཱ་ག་ཨ་སྱ།
+  sku: RDI-KK-25
+  cover: RDI-KK-25.jpeg
+  volume: {}
+ebook_metadata:
+  title: དྭགས་བརྒྱུད་སྒྲུབ་པའི་ཐེམ་སྐས་གདམས་ངག་ཕྱོགས་བསྒྲིགས།
+  authors: *id001
+  sku: RDI-KK-25
+  cover: RDI-KK-25.jpeg
+layers:
+- Author
+- BookNumber
+- BookTitle
+- Chapter
+- Citation
+- Commentary
+- Footnote
+- Sabche
+- SubTitle
+- Yigchung
