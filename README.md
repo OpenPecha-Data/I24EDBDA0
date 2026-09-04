@@ -13,7 +13,6 @@
 	- commentary
 	- footnote
 	- sabche
-	- sub_title
 	- yigchung
 
 SKU: RDI-KK-25
